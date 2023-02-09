@@ -1,0 +1,23 @@
+body {
+  background-image: url("/imgs/waves-bg.bmp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.presentation {
+  color: white;
+  margin-top: 10rem;
+}
+
+.social-nw {
+  display: inline-block;
+  margin: 1rem;
+}
+
+.icon {
+  color: white;
+  margin: 0 1rem;
+}
+
